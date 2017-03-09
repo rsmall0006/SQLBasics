@@ -1,0 +1,51 @@
+<html>
+<body>
+Hello, {{name}}. Submit your favorite restaurants and their attributes to add them to your List of Restaurants and press Submit Restaurant.<br>
+<form action="/restaurant" method="post">
+    <input type="text" placeholder="Restaurant id" name="restaurant0"/>
+    <input type="text" placeholder="Restaurant name" name="restaurant1"/>
+    <input type="text" placeholder="Restaurant type" name="restaurant2"/>
+    <input type="text" placeholder="Maximum occupancy" name="restaurant3"/>
+    <button type="submit">Submit Restaurant</button>
+    <br>
+</form>
+
+If you would like to delete a restaurant entirely, enter the number of the restaurant from your List of Restaurants below in the first box.<br>Then reenter all of the attributes you had used to create the restaurant in the next 3 fields, and press Delete Restaurant.<br>Note: Do not enter the id # in the first box. Only enter the # from the List of Restaurants #s. (They might be the same #)<br>
+<form action="/delete" method="post">
+    <input type="text" placeholder="List of Restaurants #" name="delete0"/>
+    <input type="text" placeholder="Restaurant name" name="delete1"/>
+    <input type="text" placeholder="Restaurant type" name="delete2"/>
+    <input type="text" placeholder="Maximum occupancy" name="delete3"/>
+    <button type="submit">Delete Restaurant</button>
+</form>
+
+
+
+
+<!--<form action="/edit" method="post">-->
+    <!--<input type="text" placeholder="Which post" name="choose"/>-->
+    <!--<input type="text" placeholder="Enter new message" name="edit"/>-->
+    <!--<button type="submit">Edit</button>-->
+<!--</form>-->
+You are only allowed to edit a restaurant's name. If you would like to do so, enter that restaurant's attribute's again in the first row of boxes.<br>Then type in the exact same # in the first box, then the new restaurant's name, and reenter all of the previously used attributes, in this next row of boxes.<br>Note: Do not enter the id # in the first box. Only enter the # from the List of Restaurants #s.<br>Your updated restaurant will be added at the bottom of your Official List of Restaurants, but the id # will remain the same. <br>
+<form action="/edit" method="post">
+    <input type="text" placeholder="List of Restaurants #" name="edit0"/>
+    <input type="text" placeholder="Which restaurant name?" name="edit1"/>
+    <input type="text" placeholder="Which restaurant type?" name="edit2"/>
+    <input type="text" placeholder="Which restaurant maximum occupancy?" name="edit3"/><br>
+    <input type="text" placeholder="Reenter List of Restaurants#" name="change0"/>
+    <input type="text" placeholder="New restaurant name" name="change1"/>
+    <input type="text" placeholder="Reenter restaurant type" name="change2"/>
+    <input type="text" placeholder="Reenter maximum occupancy" name="change3"/>
+    <button type="submit">Edit Restaurant Name</button>
+</form>
+
+
+Below is your official List of Restaurants.<br><br>
+<ol>
+    {{#restaurant}}
+    <li>id = {{id}}; name = {{nameOfRestaurant}}; type = {{type}}; maximum occupancy = {{maximumOccupancy}}</li>
+    {{/restaurant}}
+</ol>
+</body>
+</html>

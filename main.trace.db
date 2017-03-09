@@ -1,0 +1,216 @@
+2017-03-07 19:05:20 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Syntax error in SQL statement "INSERT INTO RESTAURANTS VALUES(NULL, ?, ?, ? [*]"; expected "[, ::, *, /, %, +, -, ||, ~, !~, NOT, LIKE, REGEXP, IS, IN, BETWEEN, AND, OR, ,, )"; SQL statement:
+INSERT INTO restaurants VALUES(NULL, ?, ?, ? [42001-191]
+2017-03-07 19:11:46 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Syntax error in SQL statement "INSERT INTO RESTAURANTS VALUES(NULL, ?, ?, ? [*]"; expected "[, ::, *, /, %, +, -, ||, ~, !~, NOT, LIKE, REGEXP, IS, IN, BETWEEN, AND, OR, ,, )"; SQL statement:
+INSERT INTO restaurants VALUES(NULL, ?, ?, ? [42001-191]
+2017-03-07 19:21:32 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Syntax error in SQL statement "INSERT INTO RESTAURANTS VALUES(NULL, ?, ?, ? [*]"; expected "[, ::, *, /, %, +, -, ||, ~, !~, NOT, LIKE, REGEXP, IS, IN, BETWEEN, AND, OR, ,, )"; SQL statement:
+INSERT INTO restaurants VALUES(NULL, ?, ?, ? [42001-191]
+2017-03-07 19:23:57 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Syntax error in SQL statement "INSERT INTO RESTAURANTS VALUES(NULL, ?, ?, ? [*]"; expected "[, ::, *, /, %, +, -, ||, ~, !~, NOT, LIKE, REGEXP, IS, IN, BETWEEN, AND, OR, ,, )"; SQL statement:
+INSERT INTO restaurants VALUES(NULL, ?, ?, ? [42001-191]
+2017-03-07 19:25:07 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Syntax error in SQL statement "INSERT INTO RESTAURANTS VALUES(NULL, ?, ?, ? [*]"; expected "[, ::, *, /, %, +, -, ||, ~, !~, NOT, LIKE, REGEXP, IS, IN, BETWEEN, AND, OR, ,, )"; SQL statement:
+INSERT INTO restaurants VALUES(NULL, ?, ?, ? [42001-191]
+2017-03-07 19:27:08 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Syntax error in SQL statement "INSERT INTO RESTAURANTS VALUES(NULL, ?, ?, ? [*]"; expected "[, ::, *, /, %, +, -, ||, ~, !~, NOT, LIKE, REGEXP, IS, IN, BETWEEN, AND, OR, ,, )"; SQL statement:
+INSERT INTO restaurants VALUES(NULL, ?, ?, ? [42001-191]
+2017-03-07 19:28:40 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Syntax error in SQL statement "INSERT INTO RESTAURANTS VALUES(NULL, ?, ?, ? [*]"; expected "[, ::, *, /, %, +, -, ||, ~, !~, NOT, LIKE, REGEXP, IS, IN, BETWEEN, AND, OR, ,, )"; SQL statement:
+INSERT INTO restaurants VALUES(NULL, ?, ?, ? [42001-191]
+2017-03-07 19:29:09 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Syntax error in SQL statement "INSERT INTO RESTAURANTS VALUES(NULL, ?, ?, ? [*]"; expected "[, ::, *, /, %, +, -, ||, ~, !~, NOT, LIKE, REGEXP, IS, IN, BETWEEN, AND, OR, ,, )"; SQL statement:
+INSERT INTO restaurants VALUES(NULL, ?, ?, ? [42001-191]
+2017-03-07 19:30:12 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Syntax error in SQL statement "INSERT INTO RESTAURANTS VALUES(NULL, ?, ?, ? [*]"; expected "[, ::, *, /, %, +, -, ||, ~, !~, NOT, LIKE, REGEXP, IS, IN, BETWEEN, AND, OR, ,, )"; SQL statement:
+INSERT INTO restaurants VALUES(NULL, ?, ?, ? [42001-191]
+2017-03-07 19:36:56 jdbc[4]: exception
+org.h2.jdbc.JdbcSQLException: Syntax error in SQL statement "SELECT FROM RESTAURANTS [*]"; expected "., (, AS, RIGHT, LEFT, FULL, INNER, JOIN, CROSS, NATURAL, ,, SELECT"; SQL statement:
+SELECT FROM restaurants [42001-191]
+2017-03-07 19:38:21 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Syntax error in SQL statement "INSERT INTO RESTAURANTS VALUES(NULL, ?, ?, ? [*]"; expected "[, ::, *, /, %, +, -, ||, ~, !~, NOT, LIKE, REGEXP, IS, IN, BETWEEN, AND, OR, ,, )"; SQL statement:
+INSERT INTO restaurants VALUES(NULL, ?, ?, ? [42001-191]
+2017-03-07 19:44:06 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Syntax error in SQL statement "INSERT INTO RESTAURANTS VALUES(NULL, ?, ?, ? [*]"; expected "[, ::, *, /, %, +, -, ||, ~, !~, NOT, LIKE, REGEXP, IS, IN, BETWEEN, AND, OR, ,, )"; SQL statement:
+INSERT INTO restaurants VALUES(NULL, ?, ?, ? [42001-191]
+2017-03-07 20:00:39 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Syntax error in SQL statement "INSERT INTO RESTAURANTS VALUES(NULL, ?, ?, ? [*]"; expected "[, ::, *, /, %, +, -, ||, ~, !~, NOT, LIKE, REGEXP, IS, IN, BETWEEN, AND, OR, ,, )"; SQL statement:
+INSERT INTO restaurants VALUES(NULL, ?, ?, ? [42001-191]
+2017-03-07 20:02:33 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Syntax error in SQL statement "INSERT INTO RESTAURANTS VALUES(NULL, ?, ?, ? [*]"; expected "[, ::, *, /, %, +, -, ||, ~, !~, NOT, LIKE, REGEXP, IS, IN, BETWEEN, AND, OR, ,, )"; SQL statement:
+INSERT INTO restaurants VALUES(NULL, ?, ?, ? [42001-191]
+2017-03-07 20:03:19 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Syntax error in SQL statement "INSERT INTO RESTAURANTS VALUES(NULL, ?, ?, ? [*]"; expected "[, ::, *, /, %, +, -, ||, ~, !~, NOT, LIKE, REGEXP, IS, IN, BETWEEN, AND, OR, ,, )"; SQL statement:
+INSERT INTO restaurants VALUES(NULL, ?, ?, ? [42001-191]
+2017-03-07 20:04:55 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Syntax error in SQL statement "INSERT INTO RESTAURANTS VALUES(NULL, ?, ?, ? [*]"; expected "[, ::, *, /, %, +, -, ||, ~, !~, NOT, LIKE, REGEXP, IS, IN, BETWEEN, AND, OR, ,, )"; SQL statement:
+INSERT INTO restaurants VALUES(NULL, ?, ?, ? [42001-191]
+2017-03-07 20:09:22 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Syntax error in SQL statement "INSERT INTO RESTAURANTS VALUES(NULL, ?, ?, ? [*]"; expected "[, ::, *, /, %, +, -, ||, ~, !~, NOT, LIKE, REGEXP, IS, IN, BETWEEN, AND, OR, ,, )"; SQL statement:
+INSERT INTO restaurants VALUES(NULL, ?, ?, ? [42001-191]
+2017-03-07 20:15:11 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Syntax error in SQL statement "INSERT INTO RESTAURANTS VALUES(NULL, ?, ?, ? [*]"; expected "[, ::, *, /, %, +, -, ||, ~, !~, NOT, LIKE, REGEXP, IS, IN, BETWEEN, AND, OR, ,, )"; SQL statement:
+INSERT INTO restaurants VALUES(NULL, ?, ?, ? [42001-191]
+2017-03-07 20:23:58 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Syntax error in SQL statement "INSERT INTO RESTAURANTS VALUES(NULL, ?, ?, ? [*]"; expected "[, ::, *, /, %, +, -, ||, ~, !~, NOT, LIKE, REGEXP, IS, IN, BETWEEN, AND, OR, ,, )"; SQL statement:
+INSERT INTO restaurants VALUES(NULL, ?, ?, ? [42001-191]
+2017-03-07 20:36:27 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Syntax error in SQL statement "DELETE FROM RESTAURANTS WHERE NAMEOFRESTAURANT = ?,[*] TYPE = ?, MAXIMUMOCCUPANCY = ? "; SQL statement:
+DELETE FROM restaurants WHERE nameOfRestaurant = ?, type = ?, maximumOccupancy = ? [42000-191]
+2017-03-07 20:45:03 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Syntax error in SQL statement "DELETE FROM RESTAURANTS WHERE NAMEOFRESTAURANT = ?,[*] TYPE = ?, MAXIMUMOCCUPANCY = ? "; SQL statement:
+DELETE FROM restaurants WHERE nameOfRestaurant = ?, type = ?, maximumOccupancy = ? [42000-191]
+2017-03-07 21:22:05 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Syntax error in SQL statement "DELETE FROM RESTAURANTS WHERE ID = ?,[*] NAMEOFRESTAURANT = ?, TYPE = ?, MAXIMUMOCCUPANCY = ? "; SQL statement:
+DELETE FROM restaurants WHERE id = ?, nameOfRestaurant = ?, type = ?, maximumOccupancy = ? [42000-191]
+2017-03-07 21:32:20 jdbc[4]: exception
+org.h2.jdbc.JdbcSQLException: Column "NAMEOFRESTAURANT" not found; SQL statement:
+//SELECT *FROM restaurants;
+DELETE FROM restaurants WHERE nameOfRestaurant = IHOP [42122-191]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:345)
+	at org.h2.message.DbException.get(DbException.java:179)
+	at org.h2.message.DbException.get(DbException.java:155)
+	at org.h2.expression.ExpressionColumn.optimize(ExpressionColumn.java:147)
+	at org.h2.expression.Comparison.optimize(Comparison.java:178)
+	at org.h2.command.dml.Delete.prepare(Delete.java:130)
+	at org.h2.command.Parser.prepareCommand(Parser.java:257)
+	at org.h2.engine.Session.prepareLocal(Session.java:560)
+	at org.h2.engine.Session.prepareCommand(Session.java:501)
+	at org.h2.jdbc.JdbcConnection.prepareCommand(JdbcConnection.java:1188)
+	at org.h2.jdbc.JdbcStatement.executeInternal(JdbcStatement.java:170)
+	at org.h2.jdbc.JdbcStatement.execute(JdbcStatement.java:158)
+	at org.h2.server.web.WebApp.getResult(WebApp.java:1388)
+	at org.h2.server.web.WebApp.query(WebApp.java:1061)
+	at org.h2.server.web.WebApp$1.next(WebApp.java:1023)
+	at org.h2.server.web.WebApp$1.next(WebApp.java:1010)
+	at org.h2.server.web.WebThread.process(WebThread.java:164)
+	at org.h2.server.web.WebThread.run(WebThread.java:89)
+	at java.lang.Thread.run(Thread.java:745)
+2017-03-07 21:38:16 jdbc[4]: exception
+org.h2.jdbc.JdbcSQLException: Syntax error in SQL statement "//SELECT *FROM restaurants;
+DELETE FROM restaurants WHERE nameOfRestaurant = Denny[*]'s"; SQL statement:
+//SELECT *FROM restaurants;
+DELETE FROM restaurants WHERE nameOfRestaurant = Denny's [42000-191]
+2017-03-07 21:38:51 jdbc[4]: exception
+org.h2.jdbc.JdbcSQLException: Syntax error in SQL statement "DELETE FROM restaurants WHERE nameOfRestaurant = Denny[*]'s"; SQL statement:
+DELETE FROM restaurants WHERE nameOfRestaurant = Denny's [42000-191]
+2017-03-07 21:39:38 jdbc[4]: exception
+org.h2.jdbc.JdbcSQLException: Column "NAMEOFRESTAURANT" not found; SQL statement:
+//SELECT *FROM restaurants;
+DELETE FROM restaurants WHERE nameOfRestaurant = IHOP [42122-191]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:345)
+	at org.h2.message.DbException.get(DbException.java:179)
+	at org.h2.message.DbException.get(DbException.java:155)
+	at org.h2.expression.ExpressionColumn.optimize(ExpressionColumn.java:147)
+	at org.h2.expression.Comparison.optimize(Comparison.java:178)
+	at org.h2.command.dml.Delete.prepare(Delete.java:130)
+	at org.h2.command.Parser.prepareCommand(Parser.java:257)
+	at org.h2.engine.Session.prepareLocal(Session.java:560)
+	at org.h2.engine.Session.prepareCommand(Session.java:501)
+	at org.h2.jdbc.JdbcConnection.prepareCommand(JdbcConnection.java:1188)
+	at org.h2.jdbc.JdbcStatement.executeInternal(JdbcStatement.java:170)
+	at org.h2.jdbc.JdbcStatement.execute(JdbcStatement.java:158)
+	at org.h2.server.web.WebApp.getResult(WebApp.java:1388)
+	at org.h2.server.web.WebApp.query(WebApp.java:1061)
+	at org.h2.server.web.WebApp$1.next(WebApp.java:1023)
+	at org.h2.server.web.WebApp$1.next(WebApp.java:1010)
+	at org.h2.server.web.WebThread.process(WebThread.java:164)
+	at org.h2.server.web.WebThread.run(WebThread.java:89)
+	at java.lang.Thread.run(Thread.java:745)
+2017-03-07 21:45:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Syntax error in SQL statement "DELETE FROM RESTAURANTS WHERE NAMEOFRESTAURANT = ?,[*] TYPE = ?, MAXIMUMOCCUPANCY = ? "; SQL statement:
+DELETE FROM restaurants WHERE nameOfRestaurant = ?, type = ?, maximumOccupancy = ? [42000-191]
+2017-03-07 21:48:46 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Syntax error in SQL statement "DELETE FROM RESTAURANTS WHERE ID = ?,[*] NAMEOFRESTAURANT = ?, TYPE = ?, MAXIMUMOCCUPANCY = ? "; SQL statement:
+DELETE FROM restaurants WHERE id = ?, nameOfRestaurant = ?, type = ?, maximumOccupancy = ? [42000-191]
+2017-03-07 21:59:14 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Syntax error in SQL statement "DELETE FROM RESTAURANTS WHERE NAMEOFRESTAURANT = ?,[*] TYPE = ?, MAXIMUMOCCUPANCY = ? "; SQL statement:
+DELETE FROM restaurants WHERE nameOfRestaurant = ?, type = ?, maximumOccupancy = ? [42000-191]
+2017-03-08 01:17:11 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Syntax error in SQL statement "DELETE FROM RESTAURANTS WHERE NAMEOFRESTAURANT = ?,[*] TYPE = ?, MAXIMUMOCCUPANCY = ? "; SQL statement:
+DELETE FROM restaurants WHERE nameOfRestaurant = ?, type = ?, maximumOccupancy = ? [42000-191]
+2017-03-08 14:18:21 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Syntax error in SQL statement "DELETE FROM RESTAURANTS WHERE NAMEOFRESTAURANT = ?,[*] TYPE = ?, MAXIMUMOCCUPANCY = ? "; SQL statement:
+DELETE FROM restaurants WHERE nameOfRestaurant = ?, type = ?, maximumOccupancy = ? [42000-191]
+2017-03-08 15:20:45 jdbc[4]: exception
+org.h2.jdbc.JdbcSQLException: Syntax error in SQL statement "SELCT[*] * FROM RESTAURANTS "; expected "SELECT, SET, SAVEPOINT, SCRIPT, SHUTDOWN, SHOW, {"; SQL statement:
+SELCT * FROM restaurants [42001-191]
+2017-03-08 15:20:58 jdbc[4]: exception
+org.h2.jdbc.JdbcSQLException: Syntax error in SQL statement "SELCT[*] * FROM RESTAURANTS "; expected "SELECT, SET, SAVEPOINT, SCRIPT, SHUTDOWN, SHOW, {"; SQL statement:
+SELCT * FROM restaurants [42001-191]
+2017-03-08 15:21:00 jdbc[4]: exception
+org.h2.jdbc.JdbcSQLException: Syntax error in SQL statement "SELCT[*] * FROM RESTAURANTS "; expected "SELECT, SET, SAVEPOINT, SCRIPT, SHUTDOWN, SHOW, {"; SQL statement:
+SELCT * FROM restaurants [42001-191]
+2017-03-08 15:40:54 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Syntax error in SQL statement "DELETE *[*] FROM RESTAURANTS WHERE NAMEOFRESTAURANT = ?, TYPE = ?, MAXIMUMOCCUPANCY = ? "; expected "identifier"; SQL statement:
+DELETE * FROM restaurants WHERE nameOfRestaurant = ?, type = ?, maximumOccupancy = ? [42001-191]
+2017-03-08 15:45:07 jdbc[4]: exception
+org.h2.jdbc.JdbcSQLException: Syntax error in SQL statement "DELETE *[*] FROM RESTAURANTS "; expected "identifier"; SQL statement:
+DELETE * FROM restaurants [42001-191]
+2017-03-09 13:42:17 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Parameter "#2" is not set; SQL statement:
+UPDATE restaurants SET nameOfRestaurant = ? WHERE nameOfRestaurant = ? [90012-191]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:345)
+	at org.h2.message.DbException.get(DbException.java:179)
+	at org.h2.message.DbException.get(DbException.java:155)
+	at org.h2.expression.Parameter.checkSet(Parameter.java:81)
+	at org.h2.command.Prepared.checkParameters(Prepared.java:164)
+	at org.h2.command.CommandContainer.update(CommandContainer.java:97)
+	at org.h2.command.Command.executeUpdate(Command.java:258)
+	at org.h2.jdbc.JdbcPreparedStatement.execute(JdbcPreparedStatement.java:201)
+	at com.theironyard.novauc.Main.editRestaurant(Main.java:55)
+	at com.theironyard.novauc.Main.lambda$main$4(Main.java:182)
+	at spark.RouteImpl$1.handle(RouteImpl.java:58)
+	at spark.webserver.MatcherFilter.doFilter(MatcherFilter.java:162)
+	at spark.webserver.JettyHandler.doHandle(JettyHandler.java:61)
+	at org.eclipse.jetty.server.session.SessionHandler.doScope(SessionHandler.java:189)
+	at org.eclipse.jetty.server.handler.ScopedHandler.handle(ScopedHandler.java:141)
+	at org.eclipse.jetty.server.handler.HandlerWrapper.handle(HandlerWrapper.java:119)
+	at org.eclipse.jetty.server.Server.handle(Server.java:517)
+	at org.eclipse.jetty.server.HttpChannel.handle(HttpChannel.java:302)
+	at org.eclipse.jetty.server.HttpConnection.onFillable(HttpConnection.java:242)
+	at org.eclipse.jetty.io.AbstractConnection$ReadCallback.succeeded(AbstractConnection.java:245)
+	at org.eclipse.jetty.io.FillInterest.fillable(FillInterest.java:95)
+	at org.eclipse.jetty.io.SelectChannelEndPoint$2.run(SelectChannelEndPoint.java:75)
+	at org.eclipse.jetty.util.thread.strategy.ExecuteProduceConsume.produceAndRun(ExecuteProduceConsume.java:213)
+	at org.eclipse.jetty.util.thread.strategy.ExecuteProduceConsume.run(ExecuteProduceConsume.java:147)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool.runJob(QueuedThreadPool.java:654)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool$3.run(QueuedThreadPool.java:572)
+	at java.lang.Thread.run(Thread.java:745)
+2017-03-09 13:54:44 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Syntax error in SQL statement "UPDATE RESTAURANTS SET NAMEOFRESTAURANT WHERE[*] NAMEOFRESTAURANT = ? "; expected "., ="; SQL statement:
+UPDATE restaurants SET nameOfRestaurant WHERE nameOfRestaurant = ? [42001-191]
+2017-03-09 14:01:04 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Parameter "#2" is not set; SQL statement:
+UPDATE restaurants SET nameOfRestaurant = ? WHERE nameOfRestaurant = ? [90012-191]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:345)
+	at org.h2.message.DbException.get(DbException.java:179)
+	at org.h2.message.DbException.get(DbException.java:155)
+	at org.h2.expression.Parameter.checkSet(Parameter.java:81)
+	at org.h2.command.Prepared.checkParameters(Prepared.java:164)
+	at org.h2.command.CommandContainer.update(CommandContainer.java:97)
+	at org.h2.command.Command.executeUpdate(Command.java:258)
+	at org.h2.jdbc.JdbcPreparedStatement.execute(JdbcPreparedStatement.java:201)
+	at com.theironyard.novauc.Main.editRestaurant(Main.java:55)
+	at com.theironyard.novauc.Main.lambda$main$4(Main.java:182)
+	at spark.RouteImpl$1.handle(RouteImpl.java:58)
+	at spark.webserver.MatcherFilter.doFilter(MatcherFilter.java:162)
+	at spark.webserver.JettyHandler.doHandle(JettyHandler.java:61)
+	at org.eclipse.jetty.server.session.SessionHandler.doScope(SessionHandler.java:189)
+	at org.eclipse.jetty.server.handler.ScopedHandler.handle(ScopedHandler.java:141)
+	at org.eclipse.jetty.server.handler.HandlerWrapper.handle(HandlerWrapper.java:119)
+	at org.eclipse.jetty.server.Server.handle(Server.java:517)
+	at org.eclipse.jetty.server.HttpChannel.handle(HttpChannel.java:302)
+	at org.eclipse.jetty.server.HttpConnection.onFillable(HttpConnection.java:242)
+	at org.eclipse.jetty.io.AbstractConnection$ReadCallback.succeeded(AbstractConnection.java:245)
+	at org.eclipse.jetty.io.FillInterest.fillable(FillInterest.java:95)
+	at org.eclipse.jetty.io.SelectChannelEndPoint$2.run(SelectChannelEndPoint.java:75)
+	at org.eclipse.jetty.util.thread.strategy.ExecuteProduceConsume.produceAndRun(ExecuteProduceConsume.java:213)
+	at org.eclipse.jetty.util.thread.strategy.ExecuteProduceConsume.run(ExecuteProduceConsume.java:147)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool.runJob(QueuedThreadPool.java:654)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool$3.run(QueuedThreadPool.java:572)
+	at java.lang.Thread.run(Thread.java:745)
+2017-03-09 14:10:49 jdbc[4]: exception
+org.h2.jdbc.JdbcSQLException: Syntax error in SQL statement "UPDATE RESTAURANTS SET NAMEOFRESTAURANT = 'bob' WHERE NAMEOFRESTAURANT = TEST 3[*] "; SQL statement:
+update restaurants set nameofrestaurant = 'bob' where nameofrestaurant = test 3 [42000-191]
